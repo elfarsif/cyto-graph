@@ -1,0 +1,16 @@
+.dashboard-container {
+  margin: 0;
+  padding: 20px;
+}
+
+.dashboard-container button {
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.dashboard-container iframe {
+  width: 100%;
+  height: calc(100vh - 80px);
+  border: 1px solid #ccc;
+}
